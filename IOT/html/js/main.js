@@ -1,0 +1,1 @@
+sure=confirm("main.js has been executed. ");
